@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://gifgive.com/wp-content/uploads/2022/02/pikselnye-simpsony.gif"  />
+  <img height="300" width="600" src="https://gifgive.com/wp-content/uploads/2022/02/paren-igraet.gif"  />
 </div>
 
 ###

@@ -31,7 +31,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://th.bing.com/th/id/OIP.s_aTWyqfSnWT3p3vcJbMQAAAAA?w=175&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7" height="40" alt="с++ logo"  />
+  <img src="https://th.bing.com/th/id/OIP.o-hANAo_F89nl5AF-2HLJAHaHa?w=196&h=196&c=7&r=0&o=5&dpr=1.1&pid=1.7" height="40" alt="с++ logo"  />
+  <img width="12" />
+  <img src="https://th.bing.com/th/id/OIP.-iAE1dv-yEJ8UHaJa2FeLAHaEK?w=310&h=185&c=7&r=0&o=5&dpr=1.1&pid=1.7" height="40" alt="с++ logo"  />
 </div>
 
 ###

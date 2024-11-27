@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="![image](https://github.com/user-attachments/assets/e1c5502b-906a-4783-879e-ddd7e609e4c1)" height="40" alt="с++ logo"  />
+  <img src="https://github.com/user-attachments/assets/e1c5502b-906a-4783-879e-ddd7e609e4c1" height="40" alt="с++ logo"  />
   <img width="12" />
   <img src="https://logojinni.com/image/logos/java-288.svg" height="40" alt="java logo"  />
 </div>

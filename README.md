@@ -31,9 +31,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://img2.freepng.ru/20180408/pew/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2dec0be9.0824244915232440779669.jpg" height="40" alt="с++ logo"  />
+  <img src="![image](https://github.com/user-attachments/assets/e1c5502b-906a-4783-879e-ddd7e609e4c1)" height="40" alt="с++ logo"  />
   <img width="12" />
-  <img src="https://th.bing.com/th/id/OIP.5ZpSLlAQYTrphu3hS4kWowHaHa?w=197&h=197&c=7&r=0&o=5&dpr=1.1&pid=1.7" height="40" alt="java logo"  />
+  <img src="https://logojinni.com/image/logos/java-288.svg" height="40" alt="java logo"  />
 </div>
 
 ###
